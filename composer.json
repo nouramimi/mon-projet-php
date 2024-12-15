@@ -1,0 +1,16 @@
+{
+    "name": "noura/projet",
+    "autoload": {
+        "psr-4": {
+            "Noura\\Projet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "noura"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
